@@ -1,0 +1,26 @@
+body{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: #d8f7fa;
+    color: #83a4a7;
+    font-family: Verdana;
+    text-decoration: none;
+    text-align: justify;
+}
+
+button{
+    list-style: none;
+    border: 1px solid #83a4a7;
+    display: inline-block;
+    padding: 8px 10px;
+    border-radius: 10px;
+    background-color: #bddfe2;
+    color: #83a4a7;
+    font-family: Verdana;
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: #d8f7fa;
+    font-weight: bold;
+}
